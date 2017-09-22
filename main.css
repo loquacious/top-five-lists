@@ -1,0 +1,32 @@
+body {
+      background-color:#b3c6e0;
+}
+
+h1 {
+    font-family:Tahoma, Geneva, sans-serif;
+    color:#dee5ef;
+}
+
+h2 {
+    color:#dee5ef;
+}
+
+/* unvisited link */
+a:link {
+    color: #e89537;
+}
+
+/* visited link */
+a:visited {
+    color: #90cc70;
+}
+
+/* mouse over link */
+a:hover {
+    color: #edc7eb;
+}
+
+/* selected link */
+a:active {
+    color:#489bce;
+}
